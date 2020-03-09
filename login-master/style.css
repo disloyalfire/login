@@ -1,0 +1,59 @@
+body{
+   background: url(images/background.jpg) no-repeat center fixed;
+   background-size: cover;
+   text-align: center;
+   color: white;
+   font-family: 'Montserrat', sans-serif;
+   padding: 40px;
+}
+
+.main{
+    width: 600px;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 20px;
+    border: purple solid 2px;
+    padding: 20px 0px 0px 0px;
+}
+
+.logo{
+    width: 400px;
+    padding-bottom: 20px;
+}
+
+.socials{
+    width: 50px;
+}
+
+button{
+    background-color: green;
+    color: white;
+    font-size: 20px;
+}
+
+.second{
+    background-color: purple;
+    padding: 20px;
+}
+
+hr{
+    width: 250px;
+}
+
+.forgot{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-decoration: none;
+    color: white;
+}
+
+.forgot:hover{
+    color: yellow;
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: none;
+    padding: 0px 5px;
+}
+
